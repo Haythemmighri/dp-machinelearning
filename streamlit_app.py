@@ -5,3 +5,4 @@ st.title('🎈 Machine Learning app ')
 st.info('this is app build a machine learning model')
 
 df = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/master/penguins_cleaned.csv')
+df
